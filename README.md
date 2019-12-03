@@ -1,4 +1,4 @@
-
+[![Build Status](https://tee0786.visualstudio.com/ContosoAirline/_apis/build/status/tahiriqbal786.ContosoAir?branchName=master)](https://tee0786.visualstudio.com/ContosoAirline/_build/latest?definitionId=4&branchName=master)
 
 
 # Microsoft.Github CI Demo
